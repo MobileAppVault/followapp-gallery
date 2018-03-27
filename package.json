@@ -1,7 +1,7 @@
 {
-  "name": "@expo/react-native-image-gallery",
+  "name": "mobileappvault/react-native-image-gallery",
   "version": "2.2.0",
-  "author": "support@expo.io",
+  "author": "support@expo.io, mobileappvault",
   "files": [
     "lib"
   ],
