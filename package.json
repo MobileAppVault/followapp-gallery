@@ -12,7 +12,8 @@
     "prop-types": "^15.6.0",
     "react-redux": "^4.4.5",
     "react-timer-mixin": "^0.13.3",
-    "redux": "^3.5.2"
+    "redux": "^3.5.2",
+    "react-native-image-pan-zoom": "^2.1.2"
   },
   "peerDependencies": {
     "expo": "*",
