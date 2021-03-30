@@ -3,11 +3,12 @@
 
 
 "@expo/react-native-image-gallery@../":
-  version "2.0.1"
+  version "2.2.1"
   dependencies:
     immutable "^3.8.1"
     mirror-creator "^1.1.0"
     prop-types "^15.6.0"
+    react-native-image-pan-zoom "^2.1.2"
     react-redux "^4.4.5"
     react-timer-mixin "^0.13.3"
     redux "^3.5.2"
@@ -2984,6 +2985,10 @@ react-native-gesture-handler@1.0.0-alpha.22:
   dependencies:
     prop-types "^15.5.10"
 
+react-native-image-pan-zoom@^2.1.2:
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.12.tgz#eb98bf56fb5610379bdbfdb63219cc1baca98fd2"
+
 react-native-maps@0.15.3:
   version "0.15.3"
   resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.15.3.tgz#5d9e0a8e30ecc51dc755b7a3b9d6b6ed5e2dd08c"
@@ -4010,8 +4015,8 @@ xpipe@^1.0.5:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 yallist@^2.1.2:
   version "2.1.2"
