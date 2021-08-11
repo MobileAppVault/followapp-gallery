@@ -3,11 +3,12 @@
 
 
 "@expo/react-native-image-gallery@../":
-  version "2.0.1"
+  version "2.2.1"
   dependencies:
     immutable "^3.8.1"
     mirror-creator "^1.1.0"
     prop-types "^15.6.0"
+    react-native-image-pan-zoom "^2.1.2"
     react-redux "^4.4.5"
     react-timer-mixin "^0.13.3"
     redux "^3.5.2"
@@ -2778,8 +2779,8 @@ path-is-absolute@^1.0.0, path-is-absolute@^1.0.1:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
 path-parse@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-to-regexp@^1.7.0:
   version "1.7.0"
@@ -2983,6 +2984,10 @@ react-native-gesture-handler@1.0.0-alpha.22:
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.0.0-alpha.22.tgz#96e5ae08b26a9e99d115f6e16f63d7487ef995fc"
   dependencies:
     prop-types "^15.5.10"
+
+react-native-image-pan-zoom@^2.1.2:
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.12.tgz#eb98bf56fb5610379bdbfdb63219cc1baca98fd2"
 
 react-native-maps@0.15.3:
   version "0.15.3"
