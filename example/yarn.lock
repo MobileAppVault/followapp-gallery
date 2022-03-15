@@ -3,11 +3,12 @@
 
 
 "@expo/react-native-image-gallery@../":
-  version "2.0.1"
+  version "2.2.1"
   dependencies:
     immutable "^3.8.1"
     mirror-creator "^1.1.0"
     prop-types "^15.6.0"
+    react-native-image-pan-zoom "^2.1.2"
     react-redux "^4.4.5"
     react-timer-mixin "^0.13.3"
     redux "^3.5.2"
@@ -2223,8 +2224,8 @@ load-json-file@^1.0.0:
     strip-bom "^2.0.0"
 
 lodash-es@^4.2.1:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
 
 lodash._basecopy@^3.0.0:
   version "3.0.1"
@@ -2983,6 +2984,10 @@ react-native-gesture-handler@1.0.0-alpha.22:
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.0.0-alpha.22.tgz#96e5ae08b26a9e99d115f6e16f63d7487ef995fc"
   dependencies:
     prop-types "^15.5.10"
+
+react-native-image-pan-zoom@^2.1.2:
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.12.tgz#eb98bf56fb5610379bdbfdb63219cc1baca98fd2"
 
 react-native-maps@0.15.3:
   version "0.15.3"
